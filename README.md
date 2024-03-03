@@ -12,3 +12,5 @@ Must use your own API key from OpenAI. MainActivity -> val OPENAI_API_KEY = "You
 
 #appdevelopment #appdeveloper #androidapp #android #androiddeveloper #androidstudio #mobileappdevelopment #uiuxdesign #kotlin
 
+
+https://github.com/shahbaz-tariq/ChatBot/assets/98009140/5d3b554c-6892-47d4-bf5c-20d62b218961
